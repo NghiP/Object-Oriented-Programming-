@@ -1,0 +1,7 @@
+﻿  school.cpp
+c:\users\nghi phan\documents\visual studio 2015\objectorientedfinal\school.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\nghi phan\documents\visual studio 2015\objectorientedfinal\school.cpp(361): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  ObjectOrientedFinal.vcxproj -> C:\Users\Nghi Phan\Documents\Visual Studio 2015\ObjectOrientedFinal\Debug\ObjectOrientedFinal.exe
+  ObjectOrientedFinal.vcxproj -> C:\Users\Nghi Phan\Documents\Visual Studio 2015\ObjectOrientedFinal\Debug\ObjectOrientedFinal.pdb (Full PDB)
